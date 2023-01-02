@@ -128,11 +128,40 @@ nav{
     top: 63px;
     left: 277px;
 }
+.jazz1:hover{
+   
+    color:darkblue;
+}
+.jazz2:hover{
+    
+    color:darkblue;
+}
+.jazz3:hover{
+    
+    color:darkblue;
+}
+.jazz4:hover{
+    
+    color:darkblue;
+}
+.saaas{
+    border: 1px solid white;
+    width: 500px;
+    height: 500px;
+}
 .none{
     text-decoration: none;
     color: black;
     font-family: sans-serif;
     font-size: smaller;
+}
+.none:hover{
+  
+    color:darkblue;
+}
+.nill:hover{
+    color: darkblue;
+    
 }
 .profile{
     border-left:1px double black;
@@ -363,7 +392,7 @@ nav{
 .jazz2{
     position: absolute;
     left:205px;
-    top: 15px;
+    top: 14px;
     font-family: sans-serif;
     font-size: small;
     color:black;
@@ -371,7 +400,7 @@ nav{
 .jazz3{
     position: absolute;
     left: 355px;
-    top: 18px;
+    top: 15.7px;
     font-family: sans-serif;
     font-size: small;
     color:black;
@@ -379,7 +408,7 @@ nav{
 .jazz4{
     position: absolute;
     left: 488px;
-    top: 20.3px;
+    top: 15.6px;
     font-family: sans-serif;
     font-size: small;
     color:black;
