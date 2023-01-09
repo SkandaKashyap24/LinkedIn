@@ -9,7 +9,7 @@ body{
     margin-bottom:0px;
     padding-bottom: 0px;
     scroll-behavior: smooth;
-    background-color:lightgrey;
+    background-color:rgb(240, 238, 237);
     
 }
 nav{
@@ -342,9 +342,11 @@ nav{
     
     height: 85px;
     border-radius: 15px;
-    background:linen;
+    /* background:linen; */
     position: relative;
-}
+    background-image: url('C:\Users\SKANDA\OneDrive\Desktop\VS files\background.jpg');
+    background-size: contain;
+   }
 
 
 .pic{
