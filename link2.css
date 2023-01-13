@@ -14,15 +14,10 @@ body{
 }
 nav{
     top: 0px;
-    display: flex;
-    
+    display: flex; 
     box-shadow: 2px 2px 5px #ccc;
     background-color:whitesmoke;
-  
-    
     height:48px;
-    
-
 }
 .obj{
     display: flex;
@@ -527,10 +522,10 @@ nav{
     margin-top:-48px;
 }
 .sas{
-    background-image: url('https://blog.myntra.com/wp-content/uploads/2021/03/Myntra_X_CSK_partnership_01.jpg');
+    background-image: url('https://picresize.com/images/rsz_myntra_x_csk_partnership_01.jpg');
     width: 610px;
     height: 400px;
-    background-size:cover;
+    background-size:contain;
     background-repeat: no-repeat;
 }
 .sas2{
