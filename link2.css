@@ -198,7 +198,7 @@ nav{
     width: 250px;
     height: 760px;
     margin-top: 30px;
-    margin-left: 150px;
+    margin-left: 170px;
     display: grid;
     grid-template-rows: auto;
     grid-row-gap: 10px;
@@ -469,7 +469,7 @@ nav{
     width: 250px;
     height: 800px;
     margin-top:30px;
-    margin-left:700px;
+    margin-left:658px;
     display: grid;
     grid-row-gap: 20px;
 
@@ -522,7 +522,7 @@ nav{
     margin-top:-48px;
 }
 .sas{
-    background-image: url('https://picresize.com/images/rsz_myntra_x_csk_partnership_01.jpg');
+    background-image: url('https://media.fashionnetwork.com/cdn-cgi/image/fit=contain,width=1000,height=1000/m/81e9/b7db/1059/c042/729b/f800/c834/c73b/5577/be51/be51.jpg');
     width: 610px;
     height: 400px;
     background-size:contain;
